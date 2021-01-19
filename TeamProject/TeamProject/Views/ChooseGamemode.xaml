@@ -2,13 +2,19 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="TeamProject.Views.ChooseGamemode">
-    <ContentPage.Content>
+
+    <ScrollView>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <!--TOPBAR-->
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="auto"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Image Grid.Column="0" HorizontalOptions="Start" Source="{local1:ImageResourceExtensions BikeGates.Images.Backbutton.png}" WidthRequest="35" HeightRequest="35" />
+                <Label Grid.Column="1" Margin="60,0,87,0" Text="Gamemode" TextColor="#ffffff" FontSize="30" HorizontalTextAlignment="Center" FontAttributes="Bold"/>
+            </Grid>
         </StackLayout>
-    </ContentPage.Content>
-    
-    
+    </ScrollView>
 </ContentPage>

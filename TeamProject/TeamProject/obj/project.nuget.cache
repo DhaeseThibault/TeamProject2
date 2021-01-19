@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Bo2wPBonReVhMkYsREUUROCzg9hUX7k7ph2N0YB809+xg7Ol3+v1blXN3eb6ZdaPkUPB70nVsqUMDIEvRSDMWA==",
+  "dgSpecHash": "8zL3I3bdG3J4ZJKUXFb9GiAaaXHxNlP/efBi++6AejqfnZopoRuD2B6LaVAyzccCkmXtl3l/JhWqjv4v2b4/lQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj",
+  "projectFilePath": "D:\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\walra\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\walra\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\walra\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\thibault.dhaese\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\thibault.dhaese\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\thibault.dhaese\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Users\\walra\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],
   "logs": []
 }

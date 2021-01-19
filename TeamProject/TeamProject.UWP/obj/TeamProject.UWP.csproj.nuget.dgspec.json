@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject.UWP\\TeamProject.UWP.csproj": {}
+    "D:\\TeamProject2\\TeamProject\\TeamProject.UWP\\TeamProject.UWP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject.UWP\\TeamProject.UWP.csproj": {
+    "D:\\TeamProject2\\TeamProject\\TeamProject.UWP\\TeamProject.UWP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject.UWP\\TeamProject.UWP.csproj",
+        "projectUniqueName": "D:\\TeamProject2\\TeamProject\\TeamProject.UWP\\TeamProject.UWP.csproj",
         "projectName": "TeamProject.UWP",
-        "projectPath": "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject.UWP\\TeamProject.UWP.csproj",
-        "packagesPath": "C:\\Users\\walra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject.UWP\\obj\\",
+        "projectPath": "D:\\TeamProject2\\TeamProject\\TeamProject.UWP\\TeamProject.UWP.csproj",
+        "packagesPath": "C:\\Users\\thibault.dhaese\\.nuget\\packages\\",
+        "outputPath": "D:\\TeamProject2\\TeamProject\\TeamProject.UWP\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -19,7 +19,7 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\walra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thibault.dhaese\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -28,13 +28,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://www.myget.org/F/abtsoftware/api/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "uap10.0.16299": {
             "projectReferences": {
-              "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj": {
-                "projectPath": "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj"
+              "D:\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj": {
+                "projectPath": "D:\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj"
               }
             }
           }
@@ -87,20 +88,20 @@
         }
       }
     },
-    "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj": {
+    "D:\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj",
+        "projectUniqueName": "D:\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj",
         "projectName": "TeamProject",
-        "projectPath": "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj",
-        "packagesPath": "C:\\Users\\walra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject\\obj\\",
+        "projectPath": "D:\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj",
+        "packagesPath": "C:\\Users\\thibault.dhaese\\.nuget\\packages\\",
+        "outputPath": "D:\\TeamProject2\\TeamProject\\TeamProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\walra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thibault.dhaese\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -109,6 +110,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://www.myget.org/F/abtsoftware/api/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -137,7 +139,7 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[5.0.0.1874, )"
+              "version": "[4.6.0.1141, )"
             }
           },
           "imports": [
