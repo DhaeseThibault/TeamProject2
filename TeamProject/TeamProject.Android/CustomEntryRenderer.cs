@@ -22,6 +22,7 @@ namespace TeamProject.Droid
             base.OnElementChanged(e);
             if (Control != null)
             {
+                //test
                 Control.Background = new ColorDrawable(Android.Graphics.Color.Transparent);
             }
         }
