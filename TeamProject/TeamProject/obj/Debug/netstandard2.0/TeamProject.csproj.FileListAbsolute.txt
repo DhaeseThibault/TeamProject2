@@ -1,0 +1,13 @@
+D:\TeamProject2\TeamProject\TeamProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\TeamProject2\TeamProject\TeamProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\TeamProject2\TeamProject\TeamProject\obj\Debug\netstandard2.0\TeamProject.AssemblyInfoInputs.cache
+D:\TeamProject2\TeamProject\TeamProject\obj\Debug\netstandard2.0\TeamProject.AssemblyInfo.cs
+D:\TeamProject2\TeamProject\TeamProject\obj\Debug\netstandard2.0\TeamProject.csproj.CoreCompileInputs.cache
+D:\TeamProject2\TeamProject\TeamProject\obj\Debug\netstandard2.0\TeamProject.dll
+D:\TeamProject2\TeamProject\TeamProject\obj\Debug\netstandard2.0\ref\TeamProject.dll
+D:\TeamProject2\TeamProject\TeamProject\obj\Debug\netstandard2.0\TeamProject.pdb
+D:\TeamProject2\TeamProject\TeamProject\bin\Debug\netstandard2.0\TeamProject.deps.json
+D:\TeamProject2\TeamProject\TeamProject\bin\Debug\netstandard2.0\TeamProject.dll
+D:\TeamProject2\TeamProject\TeamProject\bin\Debug\netstandard2.0\ref\TeamProject.dll
+D:\TeamProject2\TeamProject\TeamProject\bin\Debug\netstandard2.0\TeamProject.pdb
+D:\TeamProject2\TeamProject\TeamProject\obj\Debug\netstandard2.0\XamlC.stamp
