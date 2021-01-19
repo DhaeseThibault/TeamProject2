@@ -1930,24 +1930,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thibault.dhaese\\.nuget\\packages\\": {},
+    "C:\\Users\\walra\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TeamProject2\\TeamProject\\TeamProject.Android\\TeamProject.Android.csproj",
+      "projectUniqueName": "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject.Android\\TeamProject.Android.csproj",
       "projectName": "TeamProject.Android",
-      "projectPath": "D:\\TeamProject2\\TeamProject\\TeamProject.Android\\TeamProject.Android.csproj",
-      "packagesPath": "C:\\Users\\thibault.dhaese\\.nuget\\packages\\",
-      "outputPath": "D:\\TeamProject2\\TeamProject\\TeamProject.Android\\obj\\",
+      "projectPath": "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject.Android\\TeamProject.Android.csproj",
+      "packagesPath": "C:\\Users\\walra\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\thibault.dhaese\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\walra\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1956,14 +1956,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://www.myget.org/F/abtsoftware/api/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj": {
-              "projectPath": "D:\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj"
+            "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj": {
+              "projectPath": "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj"
             }
           }
         }
