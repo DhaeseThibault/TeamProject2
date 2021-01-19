@@ -1,0 +1,1 @@
+D:\TeamProject2\TeamProject\TeamProject.UWP\TeamProject.UWP.csproj;x86
