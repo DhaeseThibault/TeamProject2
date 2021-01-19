@@ -67,6 +67,31 @@
                     </Grid>
                 </StackLayout>
             </Frame>
+
+            <!--GAMEMODE SURVIVAL-->
+            <Frame BackgroundColor="#2C2C34" CornerRadius="7" Margin="0,24,0,0" Padding="0,0,0,0">
+                <StackLayout Margin="16,16,16,16">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Column="0" Text="Survival" FontSize="30" TextColor="#ffffff" FontAttributes="Bold" />
+                        <Image Grid.Column="1" Source="{local1:ImageResourceExtensions BikeGates.Images.Survival.png}" Margin="0,0,64,0" HeightRequest="70" WidthRequest="70" HorizontalOptions="End"/>
+                    </Grid>
+
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition Width="auto"/>
+                        </Grid.ColumnDefinitions>
+                        <Label Text="During a time race, 
+                           you must complete a track as quickly as possible. The track will be shown in advance by means of lighting."
+                           FontSize="18" TextColor="#ffffff" MaxLines="6" FontAttributes="Bold" Opacity="0.6" Grid.Column="0" HorizontalTextAlignment="Start"/>
+                        <Image Grid.Column="1" HorizontalOptions="Start" Source="{local1:ImageResourceExtensions BikeGates.Images.Furtherbutton.png}" WidthRequest="50" HeightRequest="50" VerticalOptions="End" Margin="8,0,0,0"/>
+                    </Grid>
+                </StackLayout>
+            </Frame>
         </StackLayout>
     </ScrollView>
 </ContentPage>
