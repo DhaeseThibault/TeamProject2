@@ -11,3 +11,4 @@ D:\TeamProject2\TeamProject\TeamProject\bin\Debug\netstandard2.0\TeamProject.dll
 D:\TeamProject2\TeamProject\TeamProject\bin\Debug\netstandard2.0\ref\TeamProject.dll
 D:\TeamProject2\TeamProject\TeamProject\bin\Debug\netstandard2.0\TeamProject.pdb
 D:\TeamProject2\TeamProject\TeamProject\obj\Debug\netstandard2.0\XamlC.stamp
+D:\TeamProject2\TeamProject\TeamProject\obj\Debug\netstandard2.0\TeamProject.csprojAssemblyReference.cache
