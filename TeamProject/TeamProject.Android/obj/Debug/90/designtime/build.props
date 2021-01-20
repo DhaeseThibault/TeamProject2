@@ -24,11 +24,7 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-<<<<<<< HEAD
-_nugetassetstimestamp=637466847666451741
-=======
-_nugetassetstimestamp=637466847437479699
->>>>>>> DesignChoiceGamemode
+_nugetassetstimestamp=637467511913341696
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
