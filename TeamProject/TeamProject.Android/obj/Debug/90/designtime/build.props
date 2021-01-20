@@ -25,6 +25,7 @@ os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
 <<<<<<< develop
+<<<<<<< develop
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -41,6 +42,9 @@ _nugetassetstimestamp=637467509766824528
 =======
 _nugetassetstimestamp=637466738726226535
 >>>>>>> gitignore
+=======
+_nugetassetstimestamp=637467521483142126
+>>>>>>> Auto stash before merge of "master" and "origin/master"
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
