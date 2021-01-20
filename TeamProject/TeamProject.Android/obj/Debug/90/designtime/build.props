@@ -26,6 +26,7 @@ androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 _nugetassetstimestamp=637467527033940782
 =======
 <<<<<<< develop
@@ -60,6 +61,9 @@ _nugetassetstimestamp=637466847437479699
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+>>>>>>> master
+=======
+_nugetassetstimestamp=637467536331889728
 >>>>>>> master
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a

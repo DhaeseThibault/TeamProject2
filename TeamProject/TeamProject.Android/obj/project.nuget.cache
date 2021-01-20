@@ -2,6 +2,11 @@
   "version": 2,
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+  "dgSpecHash": "rxMvFUm6UenBoED8Hiche54SYLg4JJmz8JbaUYqkfWSKaIS7AASvboNctQdmhpyBasiz+/NGtxT8cWUk9uXRLw==",
+=======
+>>>>>>> master
+<<<<<<< HEAD
   "dgSpecHash": "csh+yy2+ATdJHb8kzhgRt4b+5FYgIFtbS0XStEt8Ntm2dsYtyNPhY9JE7O7bh078WSaN58qnE6Zi2SwV400T8g==",
 =======
 <<<<<<< HEAD
@@ -18,8 +23,11 @@
 >>>>>>> DesignChoiceGamemode
 >>>>>>> master
 >>>>>>> develop
+<<<<<<< HEAD
 =======
   "dgSpecHash": "rxMvFUm6UenBoED8Hiche54SYLg4JJmz8JbaUYqkfWSKaIS7AASvboNctQdmhpyBasiz+/NGtxT8cWUk9uXRLw==",
+=======
+>>>>>>> master
 >>>>>>> master
   "success": true,
   "projectFilePath": "D:\\TeamProject2\\TeamProject\\TeamProject.Android\\TeamProject.Android.csproj",

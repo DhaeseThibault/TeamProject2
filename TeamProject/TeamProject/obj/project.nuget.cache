@@ -2,6 +2,11 @@
   "version": 2,
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+  "dgSpecHash": "XVVCLggQ4WiwZsEH8zdq8v9XwNLUS8gtQGCYkmVCUBrcKRpAbqCo/CfvpypBwrc/WxFGfZD+pkgo8YKyHt4lqQ==",
+=======
+>>>>>>> master
+<<<<<<< HEAD
   "dgSpecHash": "8zL3I3bdG3J4ZJKUXFb9GiAaaXHxNlP/efBi++6AejqfnZopoRuD2B6LaVAyzccCkmXtl3l/JhWqjv4v2b4/lQ==",
 =======
 <<<<<<< HEAD
@@ -18,8 +23,11 @@
 >>>>>>> DesignChoiceGamemode
 >>>>>>> master
 >>>>>>> develop
+<<<<<<< HEAD
 =======
   "dgSpecHash": "XVVCLggQ4WiwZsEH8zdq8v9XwNLUS8gtQGCYkmVCUBrcKRpAbqCo/CfvpypBwrc/WxFGfZD+pkgo8YKyHt4lqQ==",
+=======
+>>>>>>> master
 >>>>>>> master
   "success": true,
   "projectFilePath": "D:\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj",
