@@ -1,6 +1,22 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "gfFcWau73gjrDn9LRoILFWwFwMs2DVnzvWg7RVxRxOOMX3utbB3zqczTmC3Q4pVscuEpdh6eME2J+S9QVFmSdw==",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "Jk7mDx8eErGPKBrtF+1cOcCneKYOkgzOpofJTvzNP5/bERL50kruMIUV0QsLWv2AIqNE/9ixovJhH73xGQR6Ug==",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "dgSpecHash": "BSejKj9nAUK3QaAvkienQA90LM0kURdO/rLr569Te7KoBth3jbIk7PDpdkMJgq1aTRHfRUBuiqNDrGC3kHIHEA==",
+=======
+  "dgSpecHash": "gfFcWau73gjrDn9LRoILFWwFwMs2DVnzvWg7RVxRxOOMX3utbB3zqczTmC3Q4pVscuEpdh6eME2J+S9QVFmSdw==",
+>>>>>>> DesignChoiceGamemode
+=======
+  "dgSpecHash": "gfFcWau73gjrDn9LRoILFWwFwMs2DVnzvWg7RVxRxOOMX3utbB3zqczTmC3Q4pVscuEpdh6eME2J+S9QVFmSdw==",
+>>>>>>> DesignChoiceGamemode
+>>>>>>> master
+>>>>>>> develop
   "success": true,
   "projectFilePath": "D:\\TeamProject2\\TeamProject\\TeamProject.UWP\\TeamProject.UWP.csproj",
   "expectedPackageFiles": [
@@ -34,7 +50,11 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
+<<<<<<< HEAD
       "message": "Problem reading the cache file D:\\TeamProject2\\TeamProject\\TeamProject.UWP\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
+      "message": "Problem reading the cache file C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject.UWP\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> develop
     },
     {
       "code": "NU1605",
