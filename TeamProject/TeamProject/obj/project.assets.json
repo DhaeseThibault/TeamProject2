@@ -628,23 +628,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\walra\\.nuget\\packages\\": {},
+    "C:\\Users\\thibault.dhaese\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj",
+      "projectUniqueName": "D:\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj",
       "projectName": "TeamProject",
-      "projectPath": "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj",
-      "packagesPath": "C:\\Users\\walra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject\\obj\\",
+      "projectPath": "D:\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj",
+      "packagesPath": "C:\\Users\\thibault.dhaese\\.nuget\\packages\\",
+      "outputPath": "D:\\TeamProject2\\TeamProject\\TeamProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\walra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\thibault.dhaese\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -653,6 +653,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://www.myget.org/F/abtsoftware/api/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -703,7 +704,7 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+      "message": "Problem reading the cache file D:\\TeamProject2\\TeamProject\\TeamProject\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
   ]
 }

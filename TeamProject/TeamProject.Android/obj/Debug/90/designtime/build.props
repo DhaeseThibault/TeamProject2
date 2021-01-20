@@ -24,29 +24,7 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=637467521483142126
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Auto stash before merge of "master" and "origin/master"
-=======
-<<<<<<< Updated upstream
-_nugetassetstimestamp=637467521483142126
-=======
-<<<<<<< HEAD
-_nugetassetstimestamp=637466738726226535
-=======
-<<<<<<< HEAD
-_nugetassetstimestamp=637466847666451741
-=======
-_nugetassetstimestamp=637466847437479699
->>>>>>> DesignChoiceGamemode
->>>>>>> master
->>>>>>> Stashed changes
->>>>>>> Auto stash before merge of "master" and "origin/master"
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
+_nugetassetstimestamp=637467536331889728
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
