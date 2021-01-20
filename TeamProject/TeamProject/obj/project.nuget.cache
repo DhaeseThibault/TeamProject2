@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "8zL3I3bdG3J4ZJKUXFb9GiAaaXHxNlP/efBi++6AejqfnZopoRuD2B6LaVAyzccCkmXtl3l/JhWqjv4v2b4/lQ==",
+=======
+  "dgSpecHash": "jCijP8H/Unlq1RT0vocWx8mX/8nSk+rzrnnf7X64g6kKutw/UYpbnpLece8Pn7YiXyj26+vBKbW98BLlrf06YA==",
+>>>>>>> Stashed changes
   "success": true,
   "projectFilePath": "D:\\TeamProject2\\TeamProject\\TeamProject\\TeamProject.csproj",
   "expectedPackageFiles": [
@@ -8,7 +12,11 @@
     "C:\\Users\\thibault.dhaese\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\thibault.dhaese\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+<<<<<<< Updated upstream
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+=======
+    "C:\\Users\\thibault.dhaese\\.nuget\\packages\\xamarin.forms\\5.0.0.1874\\xamarin.forms.5.0.0.1874.nupkg.sha512"
+>>>>>>> Stashed changes
   ],
   "logs": [
     {
