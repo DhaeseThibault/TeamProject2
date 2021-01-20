@@ -1,6 +1,18 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "rxMvFUm6UenBoED8Hiche54SYLg4JJmz8JbaUYqkfWSKaIS7AASvboNctQdmhpyBasiz+/NGtxT8cWUk9uXRLw==",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "dgSpecHash": "y+HNozPrAa6UpJx4y0PNcMfcdQJZitHrh7E7AJK/DbmMLQ4MqDuOodtadk4rY9Q2WMHskU2FDU4BfN71sOqsZA==",
+=======
+  "dgSpecHash": "csh+yy2+ATdJHb8kzhgRt4b+5FYgIFtbS0XStEt8Ntm2dsYtyNPhY9JE7O7bh078WSaN58qnE6Zi2SwV400T8g==",
+>>>>>>> DesignChoiceGamemode
+=======
+  "dgSpecHash": "csh+yy2+ATdJHb8kzhgRt4b+5FYgIFtbS0XStEt8Ntm2dsYtyNPhY9JE7O7bh078WSaN58qnE6Zi2SwV400T8g==",
+>>>>>>> DesignChoiceGamemode
+>>>>>>> master
   "success": true,
   "projectFilePath": "C:\\Users\\walra\\Documents\\Schooljaar 2020 - 2021\\Team Project\\TeamProject2\\TeamProject\\TeamProject.Android\\TeamProject.Android.csproj",
   "expectedPackageFiles": [
