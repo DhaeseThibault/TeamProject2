@@ -24,15 +24,7 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-_nugetassetstimestamp=637467515296629239
-=======
-_nugetassetstimestamp=637467509766824528
->>>>>>> Stashed changes
-=======
-_nugetassetstimestamp=637467516016526394
->>>>>>> CreateSliderRendere
+_nugetassetstimestamp=637467517308867911
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a
