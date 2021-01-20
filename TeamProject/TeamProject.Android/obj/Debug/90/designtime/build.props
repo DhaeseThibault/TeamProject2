@@ -25,7 +25,11 @@ os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 _nugetassetstimestamp=637467517803232404
+=======
+_nugetassetstimestamp=637467509766824528
+>>>>>>> Stashed changes
 =======
 _nugetassetstimestamp=637467509766824528
 >>>>>>> Stashed changes
