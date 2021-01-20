@@ -26,6 +26,7 @@ androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
 _nugetassetstimestamp=637467521483142126
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 >>>>>>> Auto stash before merge of "master" and "origin/master"
 =======
 <<<<<<< Updated upstream
@@ -42,6 +43,8 @@ _nugetassetstimestamp=637466847437479699
 >>>>>>> master
 >>>>>>> Stashed changes
 >>>>>>> Auto stash before merge of "master" and "origin/master"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 typemapkind=strings-asm
