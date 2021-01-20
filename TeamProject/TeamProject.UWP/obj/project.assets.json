@@ -8158,6 +8158,12 @@
   },
   "logs": [
     {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\TeamProject2\\TeamProject\\TeamProject.UWP\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    },
+    {
       "code": "NU1605",
       "level": "Warning",
       "warningLevel": 1,

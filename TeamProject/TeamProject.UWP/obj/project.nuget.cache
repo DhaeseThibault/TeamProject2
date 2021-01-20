@@ -1,14 +1,6 @@
 {
   "version": 2,
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
   "dgSpecHash": "gfFcWau73gjrDn9LRoILFWwFwMs2DVnzvWg7RVxRxOOMX3utbB3zqczTmC3Q4pVscuEpdh6eME2J+S9QVFmSdw==",
-=======
-  "dgSpecHash": "BSejKj9nAUK3QaAvkienQA90LM0kURdO/rLr569Te7KoBth3jbIk7PDpdkMJgq1aTRHfRUBuiqNDrGC3kHIHEA==",
->>>>>>> Stashed changes
-=======
-  "dgSpecHash": "BSejKj9nAUK3QaAvkienQA90LM0kURdO/rLr569Te7KoBth3jbIk7PDpdkMJgq1aTRHfRUBuiqNDrGC3kHIHEA==",
->>>>>>> Stashed changes
   "success": true,
   "projectFilePath": "D:\\TeamProject2\\TeamProject\\TeamProject.UWP\\TeamProject.UWP.csproj",
   "expectedPackageFiles": [
@@ -38,6 +30,12 @@
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],
   "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\TeamProject2\\TeamProject\\TeamProject.UWP\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    },
     {
       "code": "NU1605",
       "level": "Warning",
